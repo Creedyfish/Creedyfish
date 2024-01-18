@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I code clean user-focused websites that make an Impact.
+I help bring your ideas to life
 <!--
 **Creedyfish/Creedyfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
